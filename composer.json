@@ -1,6 +1,7 @@
 {
 	"name": "gilbertsoft/dba-opsone",
 	"description": "phpMyAdmin installer for OpsOne Managed Server PaaS",
+	"type": "project",
 	"homepage": "https://github.com/gilbertsoft/infrastructure-opsone-dba-installer",
 	"readme": "README.md",
 	"license": "GPL-3.0-or-later",
