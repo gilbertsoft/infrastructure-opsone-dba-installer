@@ -25,7 +25,7 @@
         "ext-pcre": "*",
         "ext-json": "*",
         "ext-ctype": "*",
-        "ext-hash": "*",
+        "ext-hash": "*"
     },
     "suggest": {
         "ext-openssl": "Cookie encryption",
