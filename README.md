@@ -14,7 +14,7 @@ settings to the following configuration:
 * `DB type` to `mysql`
 * `DB password` click `Generate`
 * `Let's Encrypt` checked
-* `Tags` you like to have
+* `Tags` to what you like to have
 * Click the `Save` button
 
 ### Installation over ssh
