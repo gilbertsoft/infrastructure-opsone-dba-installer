@@ -19,5 +19,8 @@
 # Change to user home
 cd ~
 
+# Delete existing install
+[ -f install ] && rm install
+
 # Download and run installer
 wget https://github.com/gilbertsoft/infrastructure-opsone-dba/raw/master/install && chmod +x install && ./install
